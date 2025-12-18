@@ -1,4 +1,4 @@
-# INCEPTION.JS
+# INCEPTION.JS 🐦‍🔥
 
 INCEPTION.JS is the official project organization for our Smart India Hackathon (SIH) project.
 
